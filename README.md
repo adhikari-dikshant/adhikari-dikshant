@@ -1,5 +1,5 @@
  # 👋 Hi, I’m Dikshant
-- 👀 I’m interested in ****WebDev and programming*** stuffs
+- 👀 I’m interested in ***WebDev and programming*** stuffs
 - 🌱 I’m currently learning java and full stack web dev.
 - 💞️ I’m looking to collaborate on front end and to the ones who can help me to get knack of back end.
 - 📫 How to reach me 
