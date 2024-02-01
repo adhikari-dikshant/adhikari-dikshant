@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning java and full stack web dev.
 - 💞️ I’m looking to collaborate on front end and to the ones who can help me to get knack of back end.
 - 📫 How to reach me 
-    - [Instagram](https://www.instagram.com/ikshwaku_/?hl=en)
-    - [Github](https://github.com/adhikari-dikshant)
-    - [LinkedIn](https://www.linkedin.com/in/dikshant-singh-adhikari-a1280420a)
- - Also you can see my [CV](https://adhikari-dikshant.github.io/CV/) here for more.
+    - [Twitter (X)](https://twitter.com/ikshwaku03)
+    - [LinkedIn](https://www.linkedin.com/in/dikshant-singh-adhikari)
+ - Also you can see my [Portfolio](https://dikshant-singh-adhikari.vercel.app/) here for more.
+ - [Resume](https://gist.github.com/adhikari-dikshant/cfcee0d2aa09ef358191912c04b8d042) 
 <!---
 adhikari-dikshant/adhikari-dikshant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
