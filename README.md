@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Dikshant</h1>
 <h3 align="center">👀 Exploring <b>WebDev and FrontEnd magic ✨</b>.</h3>
-<h3 align="center">🌱 Currently diving into the realms of Java and Full Stack Web Dev.</h3>
-<h3 align="center">💞️ Eager to team up on cool front-end projects and seeking back-end wisdom!</h3>
+<h3 align="center">
+  🌱 Currently diving into the realms of Java and Full Stack Web Dev.
+</h3>
+<h3 align="center">
+  💞️ Eager to team up on cool front-end projects and seeking back-end wisdom!
+</h3>
 
-  <p align="center">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=adhikari-dikshant&label=Profile%20views&color=0e75b6&style=plastic"
     alt="adhikari-dikshant"
   />
 </p>
 
-[![An image of @adhikaridikshant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adhikaridikshant)](https://holopin.io/@adhikaridikshant)
+[![An image of @adhikaridikshant's Holopin badges, which is a link to view their
+full Holopin
+profile](https://holopin.me/adhikaridikshant)](https://holopin.io/@adhikaridikshant)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -70,7 +76,11 @@
       height="40"
     />
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <a
+    href="https://learn.microsoft.com/en-us/dotnet/csharp/"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
@@ -106,11 +116,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://supabase.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img
       src="https://companieslogo.com/img/orig/supabase-554aca1c.png?t=1701239800"
       alt="supabase"
@@ -126,13 +132,13 @@
       height="40"
     />
   </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://reactnative.dev/img/header_logo.svg" 
-      alt="reactnative" 
-      width="40" 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://reactnative.dev/img/header_logo.svg"
+      alt="reactnative"
+      width="40"
       height="40"
-    /> 
+    />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
@@ -142,27 +148,29 @@
       height="40"
     />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-      alt="postgresql" 
-      width="40" 
-      height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-      alt="java" 
-      width="40" 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
       height="40"
-    /> 
+    />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
-      alt="mongodb" 
-      width="40" 
-      height="40"/> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
@@ -174,20 +182,26 @@
   </a>
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
+<p>
   <img
-    style="flex: 1; margin-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=adhikari-dikshant&show_icons=true&locale=en"
-    alt="GitHub Stats"
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adhikari-dikshant&theme=dark"
+    alt="adhikari-dikshant"
   />
-  <img
-    style="flex: 1; margin-right: 10px;"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adhikari-dikshant&"
-    alt="GitHub Streak"
-  />  
-  <img
-    style="flex:1;"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adhikari-dikshant&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages"
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=adhikari-dikshant&show_icons=true&theme=gruvbox&bg_color=000000"
+    alt="adhikari-dikshant"
   />
-</div>
+</p>
+
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adhikari-dikshant&show_icons=true&theme=gruvbox&bg_color=000000&locale=en&layout=compact"
+    alt="adhikari-dikshant"
+  />
+</p>
