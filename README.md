@@ -185,11 +185,10 @@ profile](https://holopin.me/adhikaridikshant)](https://holopin.io/@adhikaridiksh
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adhikari-dikshant&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adhikari-dikshant&show_icons=true&theme=gruvbox&bg_color=000000&locale=en&layout=compact"
     alt="adhikari-dikshant"
   />
 </p>
-
 <p align="center">
   &nbsp;<img
     align="center"
@@ -197,11 +196,10 @@ profile](https://holopin.me/adhikaridikshant)](https://holopin.io/@adhikaridiksh
     alt="adhikari-dikshant"
   />
 </p>
-
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adhikari-dikshant&show_icons=true&theme=gruvbox&bg_color=000000&locale=en&layout=compact"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adhikari-dikshant&theme=dark"
     alt="adhikari-dikshant"
   />
 </p>
