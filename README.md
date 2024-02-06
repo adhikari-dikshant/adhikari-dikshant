@@ -20,7 +20,7 @@ profile](https://holopin.me/adhikaridikshant)](https://holopin.io/@adhikaridiksh
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=adhikari-dikshant"
+    src="https://github-profile-trophy.vercel.app/?username=adhikari-dikshant&row=1&column=7&theme=darkhub&margin-w=15&margin-h=15&no-bg=true"
     alt="adhikari-dikshant"
   />
 </p>
